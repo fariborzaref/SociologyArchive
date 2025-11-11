@@ -13,7 +13,7 @@ It reflects over two decades of academic and field-based work in **inequality re
 
 ---
 
-### 🧭 Core Areas
+### Core Areas
 | Domain | Focus |
 |---------|-------|
 | **Social Inequality** | Cross-national measures of income, health, and labor inequality |
@@ -25,7 +25,7 @@ It reflects over two decades of academic and field-based work in **inequality re
 
 ---
 
-### 🧩 Repository Structure  
+### Repository Structure  
 ```plaintext
 Sociology_Archive/
 ├── Research_Notes/
