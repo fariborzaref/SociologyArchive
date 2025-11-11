@@ -1,6 +1,5 @@
 # # Sociology Archive  
 Curated by **Dr. Fariborz Aref**  
-📍 United States | 🌐 [fariborzaref.com](https://fariborzaref.com)  
 
 ---
 
