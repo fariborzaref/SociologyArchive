@@ -1,5 +1,5 @@
 # # Sociology Archive  
-Curated by **Dr. Fariborz Aref**  
+Curated by **Fariborz Aref**  
 
 ---
 
